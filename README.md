@@ -10,7 +10,7 @@ This is my solution to the [order summary card challenge on Frontend Mentor](htt
 
 ### Links
 
-- Live Site URL: [https://omeresas.github.io/FEM-Order-Summary-Component/](https://omeresas.github.io/FEM-NFT-Order-Summary/)
+- Live Site URL: [https://omeresas.github.io/FEM-Order-Summary-Component/](https://omeresas.github.io/FEM-Order-Summary-Component/)
 
 ### Built with
 
