@@ -2,15 +2,15 @@
 
 This is my solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj).
 
-<!-- ### GIF
+### GIF
 
 <p>
 <img src="preview.gif" alt="drawing" width="400""/>
-</p> -->
+</p>
 
-<!-- ### Links
+### Links
 
-- Live Site URL: [https://omeresas.github.io/FEM-NFT-Card-Component/](https://omeresas.github.io/FEM-NFT-Card-Component/) -->
+- Live Site URL: [https://omeresas.github.io/FEM-Order-Summary-Component/](https://omeresas.github.io/FEM-NFT-Order-Summary/)
 
 ### Built with
 
