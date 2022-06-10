@@ -1,6 +1,4 @@
 :root {
-  --mobile-width: 375px;
-  --desktop-width: 1440px;
   --pale-blue: hsl(225, 100%, 94%);
   --bright-blue: hsl(245, 75%, 52%);
   --very-pale-blue: hsl(225, 100%, 98%);
@@ -61,7 +59,7 @@ p {
 }
 
 body {
-  width: 100vw;
+  width: auto;
   height: 100vh;
   background-color: var(--pale-blue);
   background-image: url("images/pattern-background-desktop.svg");
@@ -166,4 +164,19 @@ body {
 .anchor-cancel:hover,
 .anchor-cancel:active {
   color: var(--dark-blue);
+}
+
+@media (max-width: 500px) {
+  .container {
+    width: 350px;
+  }
+
+  .wrapper {
+    padding: 0px 20px;
+  }
+
+  .plan-price {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
 }
