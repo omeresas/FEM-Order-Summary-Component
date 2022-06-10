@@ -17,3 +17,8 @@ This is my solution to the [order summary card challenge on Frontend Mentor](htt
 - HTML
 - CSS
 - Flexbox
+
+### What I've Learned
+
+- Screen size media queries for mobile.
+- Different control mechanisms for mobile, such as using `active` on touchscreens instead of `hover` pseudo-class.
