@@ -166,6 +166,10 @@ body {
 }
 
 @media (max-width: 500px) {
+  body {
+    background-image: url("images/pattern-background-mobile.svg");
+  }
+
   .container {
     width: 350px;
   }
